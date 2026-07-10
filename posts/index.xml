@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on LTJ_TW Web</title>
-		<link>http://localhost:1313/posts/</link>
+		<link>https://ltj-ntucsie.github.io/posts/</link>
 		<description>Recent content in Posts on LTJ_TW Web</description>
 		<generator>Hugo</generator>
 		<language>zh-tw</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 03 Jul 2026 10:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://ltj-ntucsie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Mysterious Test</title>
-				<link>http://localhost:1313/posts/my-first-post/</link>
+				<link>https://ltj-ntucsie.github.io/posts/my-first-post/</link>
 				<pubDate>Fri, 03 Jul 2026 10:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/my-first-post/</guid>
+				<guid>https://ltj-ntucsie.github.io/posts/my-first-post/</guid>
 				<description>&lt;h2 id=&#34;meow&#34;&gt;meow&lt;/h2&gt;&#xA;&lt;p&gt;meow&amp;hellip; meow rawr, meow meow meow!&lt;/p&gt;</description>
 			</item>
 	</channel>
